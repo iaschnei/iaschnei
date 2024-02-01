@@ -8,6 +8,6 @@ I'm currently a computer science student at 42 Paris.
 There, we're asked to develop a large variety of programs, you'll find the most interesting ones in repositories starting with "42"!
 
 On the personal side, I'm mostly interested in low level languages like C, C++, Zig and Rust (even though I barely scratched the last two).
-I'm working on a CHIP-8 emulator right now and the next step is a GB/GBC one !
+I'm working on a GB/GBC/GBA emulator right now !
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaschnei&layout=compact&theme=dracula&hide=perl,roff)
