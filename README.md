@@ -1,11 +1,6 @@
-![Banner](https://github.com/iaschnei/iaschnei/assets/141677415/7e76e129-1faa-4202-a0d9-828d3a5d6a83)
+### Hey there, i'm Ianaël !
 
+Currently a computer science student at 42 Paris, I specialise in low level development and cybersecurity.
+You'll find school projects such as a homemade kernel, a doom-like game or a web server. I also put there some personal projects : emulators for the chip-8 and (WIP) for the GB/GBC !
 
-
-### Welcome, i'm Ianaël !
-
-I'm currently a computer science student at 42 Paris.
-There, we're asked to develop a large variety of programs, you'll find the most interesting ones in repositories starting with "42"
-
-On the personal side, I'm mostly interested in low level languages like C, C++, Zig and Rust 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaschnei&layout=compact&theme=dracula&hide=perl,roff)
