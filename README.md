@@ -1,6 +1,6 @@
 ### Hey there, i'm Ianaël !
 
-Currently a computer science student at 42 Paris, I specialise in low level development and cybersecurity.
+Currently a computer science student at 42 Paris, I specialise in software development and cybersecurity.
 
 You'll find school projects such as a homemade kernel, CTF-like challenges or a web server. I also put there some personal projects such as and emulator for the chip-8.
 
