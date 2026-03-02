@@ -6,5 +6,5 @@ You'll find here some school projects such as a homemade kernel, CTF-like challe
 
 You can reach out to me at [ianael.pro@proton.me](mailto:ianael.pro@proton.me)
 ### _______________________
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaschnei&layout=compact&theme=dracula&hide=perl,roff)
+
 
