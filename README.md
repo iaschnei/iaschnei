@@ -1,6 +1,6 @@
 ### Hey there, i'm Ianaël !
 
-Currently a computer science student at 42 Paris, I specialise in system administration and cybersecurity.
+Currently a computer science student at 42 Paris, I specialise in system administration, low-level development and cybersecurity.
 
 You'll find here some school projects such as a homemade kernel, CTF-like challenges or a web server. I also put there some personal projects such as an emulator for the chip-8.
 
